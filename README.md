@@ -18,8 +18,7 @@ Aquest projecte té com a objectiu desenvolupar un model de *Machine Learning* c
   * Entrenament i comparació de models
   * Conclusions
 * **fifa_players.csv** – Dataset original utilitzat
-* **models/** – (opcional) Carpeta amb models guardats
-* **img/** – Gràfics generats durant l'anàlisi
+* **png/** – Gràfics generats durant l'anàlisi
 
 ---
 
@@ -100,7 +99,6 @@ S'han provat tres models:
 
 ## Requisits
 
-* Python 3.10+
 * Llibreries principals:
 
   * pandas
@@ -127,6 +125,6 @@ Executeu totes les cel·les en ordre.
 **Héctor Sánchez i Roger Garcia**
 Projecte de predicció de valor de jugadors basat en dades FIFA.
 
-
+Link de github
 https://github.com/NIU1704248/fifa_prediction
 ---
